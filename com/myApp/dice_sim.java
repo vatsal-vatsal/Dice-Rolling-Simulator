@@ -1,3 +1,5 @@
+package com.myapp;
+
 import java.util.Scanner;
 
 class DiceSimulator implements Runnable {
